@@ -3,7 +3,24 @@
         "id": 1,
         "subject": "ssl issue",
         "status": "Cliente response pending",
-        "addedAt": "2020-09-23"
+        "addedAt": "2020-09-23",
+        "history": [
+            {
+                "date": "20-10-10",
+                "message": "Mi pago fue realizado",
+                "messageBy": "client"
+            },
+            {
+                "date": "20-10-10",
+                "message": "Que dia realizo el pago",
+                "messageBy": "operator"
+            },
+            {
+                "date": "20-10-10",
+                "message": "El 01 de abril",
+                "messageBy": "client"
+            }
+        ]
     },
     {
         "id": 2,
